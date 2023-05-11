@@ -1,0 +1,11 @@
+app:
+  name: costly-api
+  api:
+    title: Costly API
+    version: 1.0.0
+    description: Spring Boot APIs description
+    base-package: com.costly.costly.controller
+    contact-name: Kaloyan Doychinov
+    contact-email: kaloyan@kaloyan.tech
+    swagger:
+      enable: false
